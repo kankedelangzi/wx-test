@@ -1,0 +1,24 @@
+{
+  "name": "wx-test",
+  "version": "1.0.0",
+  "description": "测试微信服务器",
+  "main": "index.js",
+  "scripts": {
+    "server": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kankedelangzi/wx-test.git"
+  },
+  "author": "yuu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kankedelangzi/wx-test/issues"
+  },
+  "homepage": "https://github.com/kankedelangzi/wx-test#readme",
+  "dependencies": {
+    "koa": "^2.6.2",
+    "koa-static": "^5.0.0"
+  }
+}
